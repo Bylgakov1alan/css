@@ -1,0 +1,17 @@
+a:link {
+ color: blue;
+}
+
+a:visited {
+ color: green;
+}
+
+a:hover {
+ color: red;
+ line-height: 5px;
+}
+
+
+a:active {
+ color: blue;
+}
