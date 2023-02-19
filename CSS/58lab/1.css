@@ -1,0 +1,43 @@
+#elem {
+ background-repeat: round;
+ background-image: url("phontan.jpg");
+width: 4000;
+height: 3000;
+ border: 1px solid black;
+}
+#elem1 {
+ background-color: orange;
+ background-image: url("phontan.jpg");
+ background-repeat: no-repeat;
+ width: 1000px;
+ height: 300px;
+ border: 3px solid black;
+}
+#elem2 {
+ background: repeat-y;
+ background-image: url("phontan.jpg");
+ width: 400px;
+ height: 1000px;
+ border: 1px solid black;
+}
+#elem3{
+ background-repeat: repeat-x;
+ background-image: url("phontan.jpg");
+ width: 10000px;
+ height: 300px;
+ border: 1px solid black;
+}
+#elem4 {
+ background-repeat: no-repeat;
+ background-image: url("phontan.jpg");
+ width: 400px;
+ height: 300px;
+ border: 1px solid black;
+}
+#elem5 {
+ background-repeat: space;
+ background-image: url("phontan.jpg");
+ width: 10000px;
+ height: 10000px;
+ border: 1px solid black;
+} 
