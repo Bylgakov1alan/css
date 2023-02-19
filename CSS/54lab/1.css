@@ -1,0 +1,37 @@
+#elem1 {
+ width: 300px;
+ height: 100px;
+ border-left: 2px ridge blue;
+ border-right: 7px dotted green;
+ border-bottom: 5px ridge yellowgreen;
+ border-top: 8px dashed black;
+}#elem2 {
+ width: 300px;
+ height: 100px;
+ border-left: 1px dashed blue;
+ border-right: 2px dashed green;
+ border-bottom: 3px dashed yellowgreen;
+ border-top: 4px dashed black;
+}#elem3 {
+ width: 300px;
+ height: 100px;
+ border-left: 1px solid blue;
+ border-right: 2px solid green;
+ border-bottom: 5px solid yellowgreen;
+ border-top: 4px solid black;
+}#elem4 {
+ width: 300px;
+ height: 100px;
+ border-left: 3px solid blue;
+ border-right: 4px dotted green;
+ border-bottom: 5px ridge yellowgreen;
+ border-top: 4px dashed black;
+}
+#elem5 {
+ width: 300px;
+ height: 100px;
+ border-left: 1px solid blue;
+ border-right: 1px dotted green;
+ border-bottom: 5px ridge yellowgreen;
+ border-top: 4px dashed black;
+}
