@@ -1,0 +1,6 @@
+p:empty {
+ border: 1px solid blue;
+ list-style-type: circle;
+ color: blue;
+ width: 100px;
+}
