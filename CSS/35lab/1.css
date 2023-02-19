@@ -1,0 +1,16 @@
+#b1{
+    color: brown;
+font-size: large;
+}
+#b2{
+    color: green;
+font-family: Verdana;
+}
+#b3{
+    color: blue;
+    font-size: small;
+}
+.create-line{
+    width: 200px;
+    border-top: 3px solid #0aeb15;
+}
