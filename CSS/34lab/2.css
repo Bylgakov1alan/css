@@ -1,0 +1,14 @@
+/* Придумайте и сделайте 3 какие-нибудь класса. Задайте какому-нибудь тегу одновременно все три придуманных вами класса. */
+.small{
+    color:blueviolet;
+    font-size: medium;
+    font-family: serif;
+}
+.create-line {
+width: 200px;
+border-top: 3px solid #0aeb15;
+}
+.success{
+    outline: 3px;
+    background-color: aqua;
+}

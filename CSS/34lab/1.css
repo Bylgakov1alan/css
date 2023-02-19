@@ -1,0 +1,30 @@
+/* .success { 
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+Пусть у вас также есть 4 абзаца. С помощью представленных классов сделайте так, чтобы первый абзац был зеленый и
+ с большим шрифтом, второй абзац - красным и с маленьким шрифтом, третий абзац - красным и с большим шрифтом, 
+ а четвертый - зеленым и с маленьким шрифтом. */
+ .eror{
+    color: blue;
+ }
+ .large {
+font-size: large;
+font-family: monospace; 
+}
+ .success{
+    color: darkorange;
+ }
+ .small{
+    font-size: small;
+    font-family: Impact;
+ }
+ 
