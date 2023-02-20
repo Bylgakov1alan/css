@@ -1,0 +1,15 @@
+#t1 {
+ list-style-type: lower-roman;
+}
+#t2{
+ list-style-type: lower-alpha;
+}
+#t3{
+ list-style-type: lower-greek;
+}
+#t4{
+  list-style-type: upper-roman;
+ }
+#t5{
+ list-style-type: decimal;
+}
