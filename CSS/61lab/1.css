@@ -1,0 +1,26 @@
+#t2 {
+ width: 300px;
+ border: 30px solid red;
+}
+
+#t1 {
+ height: 200px;
+ border: 1px solid green;
+ margin: 20px;
+}
+
+#t3 {
+ width: 300px;
+ border: 10px solid red;
+}
+
+#t4 {
+ height: 200px;
+ border: 1px solid green;
+ margin: 20px;
+}
+#t5{
+  height: 100px;
+   border: 1px solid green;
+   margin: 10px;
+}
