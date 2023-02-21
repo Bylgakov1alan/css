@@ -1,0 +1,54 @@
+#k1 {
+ width: 300px;
+ border: 1px solid red;
+}
+
+#k2 {
+ margin-top: 50px;
+ /* сверху */
+ margin-right: 10px;
+ /* справа */
+ margin-bottom: 50px;
+ /* снизу */
+ margin-left: 10px;
+ /* слева */
+
+ height: 100px;
+ border: 1px solid green;
+}
+#k3 {
+ width: 300px;
+ border: 1px solid red;
+}
+
+#k4 {
+ margin-top: 5px;
+ /* сверху */
+ margin-right: 16px;
+ /* справа */
+ margin-bottom: 10px;
+ /* снизу */
+ margin-left: 24px;
+ /* слева */
+
+ height: 100px;
+ border: 1px solid green;
+}
+#k5 {
+ width: 300px;
+ border: 1px solid red;
+}
+
+#k6 {
+ margin-top: 10px;
+ /* сверху */
+ margin-right: 50px;
+ /* справа */
+ margin-bottom: 10px;
+ /* снизу */
+ margin-left: 50px;
+ /* слева */
+
+ height: 100px;
+ border: 1px solid green;
+}
