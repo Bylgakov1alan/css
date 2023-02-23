@@ -1,0 +1,37 @@
+#elem1 {
+ padding-top: 10px;
+ /* сверху */
+ padding-right: 4px;
+ /* справа */
+ padding-bottom: 10px;
+ /* снизу */
+ padding-left: 4px;
+ /* слева */
+
+ width: 300px;
+ border: 1px solid red;
+ text-align: justify;
+}
+
+#elem3 {
+ padding: 20px 5px;
+
+ width: 300px;
+ border: 1px solid red;
+ text-align: justify;
+}
+
+#elem2 {
+ padding-top: 5px;
+ /* сверху */
+ padding-right: 5px;
+ /* справа */
+ padding-bottom: 15px;
+ /* снизу */
+ padding-left: 5px;
+ /* слева */
+
+ width: 300px;
+ border: 1px solid red;
+ text-align: justify;
+}
