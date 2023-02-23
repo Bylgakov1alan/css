@@ -1,0 +1,42 @@
+#elem1 {
+ padding-top: 10px;
+ /* сверху */
+ padding-right: 20px;
+ /* справа */
+ padding-bottom: 30px;
+ /* снизу */
+ padding-left: 40px;
+ /* слева */
+
+ width: 300px;
+ border: 1px solid red;
+ text-align: justify;
+}
+#elem3 {
+ padding-top: 100px;
+ /* сверху */
+ padding-right: 20px;
+ /* справа */
+ padding-bottom: 300px;
+ /* снизу */
+ padding-left: 40px;
+ /* слева */
+
+ width: 300px;
+ border: 1px solid red;
+ text-align: justify;
+}
+#elem2 {
+ padding-top: 90px;
+ /* сверху */
+ padding-right: 2px;
+ /* справа */
+ padding-bottom: 70px;
+ /* снизу */
+ padding-left: 40px;
+ /* слева */
+
+ width: 300px;
+ border: 1px solid red;
+ text-align: justify;
+}
