@@ -1,0 +1,26 @@
+.crazy {
+ padding: 10px;
+ margin: 10px;
+ background: #08c;
+ color: white;
+ font-weight: bold;
+ text-decoration: none;
+ font-size: 20px;
+}
+
+.crazy:hover {
+ background: #0af;
+}
+
+div {
+ width: 600px;
+ text-align: justify;
+}
+
+.one {
+ float: right;
+}
+
+.two {
+ float: left;
+}
